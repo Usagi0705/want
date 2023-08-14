@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = prjCoreWebWantWant
+build_property.RootNamespace = prjCoreWebWantWant
+build_property.ProjectDir = C:\Users\User\Desktop\期末專題整合初稿\整合檔\前台\CoreWebWantWantV2-master\prjCoreWebWantWant\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\期末專題整合初稿\整合檔\前台\CoreWebWantWantV2-master\prjCoreWebWantWant
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/Approve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxBcHByb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/JobdetailBackstage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxKb2JkZXRhaWxCYWNrc3RhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/TablesEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxUYWJsZXNFZGl0YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage/ApplicationRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlXEFwcGxpY2F0aW9uUmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage/ResumeEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlXFJlc3VtZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage/ResumeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlXFJlc3VtZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage/TaskCollection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlXFRhc2tDb2xsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Expert/ExpertMainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0XEV4cGVydE1haW5QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Forum/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Forum/CreatePost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cQ3JlYXRlUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Forum/PostList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cUG9zdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Forum/PostView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cUG9zdFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Member/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEZvcmdldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Member/LayoutForMem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXExheW91dEZvck1lbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Member/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Member/MemberAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlckFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Product/Trash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUcmFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/LayoutForMem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEZvck1lbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_BackstageLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWNrc3RhZ2VMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_FormLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3JtTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_LayoutBackstage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRCYWNrc3RhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shop/CaseShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDYXNlU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shop/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDaGVja091dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shop/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shop/ResumesShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxSZXN1bWVzU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Task/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Task/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h8yxadbpe3
+
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Shared/_Layout_Task.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfVGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-hskaiiv601
