@@ -16,20 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\期末專題整合初稿\整合檔\前台\CoreWebWantWantV2-master\prjCoreWebWantWant
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/Approve.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxBcHByb3ZlLmNzaHRtbA==
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/BackstageTask/Approve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlVGFza1xBcHByb3ZlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/Form.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxGb3JtLmNzaHRtbA==
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/BackstageTask/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlVGFza1xGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/JobdetailBackstage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxKb2JkZXRhaWxCYWNrc3RhZ2UuY3NodG1s
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/BackstageTask/JobdetailBackstage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlVGFza1xKb2JkZXRhaWxCYWNrc3RhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage1/TablesEditable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlMVxUYWJsZXNFZGl0YWJsZS5jc2h0bWw=
+[C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/BackstageTask/TablesEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja3N0YWdlVGFza1xUYWJsZXNFZGl0YWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/Desktop/期末專題整合初稿/整合檔/前台/CoreWebWantWantV2-master/prjCoreWebWantWant/Views/Backstage/ApplicationRecord.cshtml]

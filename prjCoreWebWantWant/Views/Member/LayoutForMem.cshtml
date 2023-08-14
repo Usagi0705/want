@@ -129,7 +129,7 @@
                             <span class="hide-menu">找人才</span>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="@Url.Content("~/Backstage1/Form")" aria-expanded="false">
+                            <a class="sidebar-link" href="@Url.Content("~/BackstageTask/Form")" aria-expanded="false">
                                 <span>
                                     <i class="ti ti-login"></i>
                                 </span>
@@ -137,7 +137,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="@Url.Content("~/Backstage1/tableseditable")" aria-expanded="false">
+                            <a class="sidebar-link" href="@Url.Content("~/BackstageTask/tableseditable")" aria-expanded="false">
                                 <span>
                                     <i class="ti ti-user-plus"></i>
                                 </span>
@@ -145,7 +145,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link" href="#" aria-expanded="false">
+                            <a class="sidebar-link" href="@Url.Content("~/BackstageTask/Approve")" aria-expanded="false">
                                 <span>
                                     <i class="ti ti-user-plus"></i>
                                 </span>
@@ -276,9 +276,37 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     @* <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> *@
     <script src="~/js/site.js" asp-append-version="true"></script>
+      <!-- JAVASCRIPT -->
+    <script src="~/Backstage/static/js/jquery.min.js"></script>
+    <script src="~/Backstage/static/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Backstage/static/js/metisMenu.min.js"></script>
+    <script src="~/Backstage/static/js/simplebar.min.js"></script>
+    <script src="~/Backstage/static/js/waves.min.js"></script>
+    <script src="~/Backstage/static/js/feather.min.js"></script>
+
+    <!-- pace js -->
+    @*<script src="~/BackStage/static/js/pace.min.js"></script>*@
+
+    <!-- Required datatable js -->
+    <script src="~/Backstage/static/js/jquery.dataTables.min.js"></script>
+
+    @*<!-- Responsive examples -->
+    <script src="~/Backstage/static/js/dataTables.responsive.min.js"></script>
+    <script src="~/Backstage/static/js/responsive.bootstrap4.min.js"></script>*@
+
+    <!-- init js -->
+@*    <script src="~/Backstage/static/js/datatable-pages.init.js"></script>*@
+    <script src="~/Backstage/static/js/dataTables.bootstrap4.min.js"></script>
+
+    @*<!-- Table Editable plugin -->
+    <script src="~/Backstage/static/js/table-edits.min.js"></script>
+    <script src="~/Backstage/static/js/table-editable.int.js"></script>
+    <script src="~/Backstage/static/js/app.js"></script>*@
+
+
     @await RenderSectionAsync("Scripts", required: false)
    
 </body>
 
 </html>
-@*@Html.Partial("_Footer")*@
+@* @Html.Partial("_Footer") *@
